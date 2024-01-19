@@ -1,4 +1,4 @@
-## Hello I'm Thiago Mendes, student of Software Engineer and programming.
+## Hello, I'm Thiago Mendes, a Software Engineering and programming student.
 
   <div align="center">
   <a href = "mailto:oliveirathiagomendes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
