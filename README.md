@@ -3,7 +3,9 @@
   <div align="center">
   <a href = "mailto:oliveirathiagomendes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-mdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://thiagomdo.github.io/Site_Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Site%20Portfolio-20B2AA?style=for-the-badge"></a> 
+  <a href="https://thiagomdo.github.io/Site_Portfolio/" .target="_blank"><img src="https://img.shields.io/badge/Site%20Portfolio-20B2AA?style=for-the-badge"></a>
+  <a href=" https://www.dio.me/users/oliveirathiagomendes" target="_blank"><img src="https://img.shields.io/badge/Perfil%20_DIO-52057b?style=for-the-badge"></a>
+   
   </div>
   
   ##
@@ -44,5 +46,20 @@
   ## Technologies I'm Improving
 
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+   <br/>
+   
+  ## Some projects mine
+
+  <br/>
   
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMdo&repo=SpringBoot_Challenge_Book_Store&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ThiagoMdO/SpringBoot_Challenge_Book_Store)
+  
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMdo&repo=ERP_Basico_Loja_roupa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ThiagoMdO/ERP_Basico_Loja_roupa)
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMdo&repo=Site_Portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ThiagoMdO/Site_Portfolio)
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMdo&repo=SpringBoot_Challenge02_User_Management_Thiago_Mendes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ThiagoMdO/SpringBoot_Challenge02_User_Management_Thiago_Mendes)
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMdo&repo=SpringBoot_Challenge_01_ThiagoMendes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ThiagoMdO/SpringBoot_Challenge_01_ThiagoMendes)
+ 
 </div>
