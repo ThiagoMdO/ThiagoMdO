@@ -48,5 +48,12 @@
   ## Technologies I'm Improving
 
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+<div align="center">
+  <p><b>Visitors</b></p>
+  <p>
+    <img align="center" src="https://profile-counter.glitch.me/{ThiagoMdO}/count.svg"/>
+  </p>
+</div>
  
 </div>
