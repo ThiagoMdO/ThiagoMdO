@@ -31,7 +31,7 @@
   <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="center" alt="JUnit5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" />
   <img align="center" alt="Mockito" height="30" width="60" src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" />
-  <img align="center" alt="BootStrap" height="30" width="40" src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />
+  <img align="center" alt="BootStrap" height="30" width="40" src="https://camo.githubusercontent.com/3fd9366fc9c6ab48dc26c1d989cf5ffadc55d5266ed49c67efa5931fd3a83ec9/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e332f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />
 
   ### Certification
   <img align="center" alt="AWS Cloud Practitioner" height="30" width="35" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
