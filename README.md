@@ -3,7 +3,7 @@
   <div align="center">
   <a href = "mailto:oliveirathiagomendes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-mdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://thiagomdo.github.io/Site_Portfolio/" .target="_blank"><img src="https://img.shields.io/badge/Site%20Portfolio-20B2AA?style=for-the-badge"></a>
+  <a href="https://thiagomdo.codezt.com/" .target="_blank"><img src="https://img.shields.io/badge/Site%20Portfolio-20B2AA?style=for-the-badge"></a>
   <a href="https://www.dio.me/users/oliveirathiagomendes" target="_blank"><img src="https://img.shields.io/badge/Perfil%20_DIO-52057b?style=for-the-badge"></a>
    
   </div>
