@@ -9,11 +9,7 @@
   </div>
   
   ##
-  
-<div align="center" >
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomdo&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomdo&layout=compact&langs_count=10&theme=dark"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   
